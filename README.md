@@ -1,4 +1,4 @@
-https://images.gamebanana.com/img/ss/mods/68cdd16385cd5.jpg
+
 
 I feel like sonic frontiers on release had quite a bit of issues with it's physics and this game made me realize how important momentum is in a Sonic game 
 
