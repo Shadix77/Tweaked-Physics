@@ -1,0 +1,43 @@
+{
+   "Groups":[
+      {
+         "Name":"Main",
+         "DisplayName":"Combat Option",
+         "Elements":
+         [
+			{
+               "Name":"IncludeDir0",
+               "DisplayName":"Combat Speed",
+               "Description":[
+                  "Adjusts Combat speed",
+               ],
+               "Type":"TweakedPhysicsEnum",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"faster_combat"
+            },
+         ]
+      }
+   ],
+   "Enums":{
+      		"TweakedPhysicsEnum":[
+         {
+            "DisplayName":"Faster Combat",
+            "Value":"faster_combat",
+            "Description":[
+               "This option makes it so that the combat feels more dynamic and swift than it did in the vanilla game.
+
+In my opinion this the most ideal way to play a sonic game :D",
+            ]
+         },
+		 {
+            "DisplayName":"Vanilla Combat",
+            "Value":"vanilla_combat",
+            "Description":[
+               "No Combat Changes made, only open zone and cyberspace physic changes.",
+            ]
+         },
+      ],
+   },
+   "IniFile":"mod.ini"
+}
