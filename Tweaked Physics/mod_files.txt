@@ -1,4 +1,4 @@
-add \faster_combat\raw\character\playercommon.pac
-add \vanilla_combat\raw\character\playercommon.pac
-add \raw
+add faster_combat/raw/character/playercommon.pac
+add vanilla_combat/raw/character/playercommon.pac
+delete raw
 add mod.ini
