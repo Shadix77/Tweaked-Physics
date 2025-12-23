@@ -1,4 +1,5 @@
+add mod.ini
+delete raw/
 add faster_combat/raw/character/playercommon.pac
 add vanilla_combat/raw/character/playercommon.pac
-delete raw
-add mod.ini
+
