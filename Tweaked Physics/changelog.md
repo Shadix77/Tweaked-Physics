@@ -1,7 +1,10 @@
 # Tweaked Physics 1.3
 - Reduced Boost Speed Cap
+  
 - Decreased Spin Dash's Inital and Max Speed
+  
 - Increased Running Speed Cap
+  
 - Decreased Drop Dash's Inital Speed
 - Improved Slope Physics
 - Decreased Grind Speed
@@ -40,6 +43,7 @@
 - Fixed Cyclone Kick spam glitch 
 - Wild Rush no longer ends in mid-air
 - Improved Running acceleration
+
 
 
 
