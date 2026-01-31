@@ -2,7 +2,7 @@
 - Reduced Boost Speed Cap
   
 - Decreased Spin Dash's Inital and Max Speed
--
+
 - Increased Running Speed Cap
 
 - Decreased Drop Dash's Inital Speed
@@ -64,6 +64,7 @@
 - Wild Rush no longer ends in mid-air
 -
 - Improved Running acceleration
+
 
 
 
