@@ -28,7 +28,7 @@
 
 * Turning doesn't slow down sonic anymore
 
-\* Inital Sliding Speed Increaed, Using the slide and holding it down while going down slopes in the open zone enables sonic to gain speed
+* Inital Sliding Speed Increaed, Using the slide and holding it down while going down slopes in the open zone enables sonic to gain speed
 
 * Parry times have now changed
 
@@ -73,6 +73,7 @@
 * Wild Rush no longer ends in mid-air
 
 * Improved Running acceleration
+
 
 
 
