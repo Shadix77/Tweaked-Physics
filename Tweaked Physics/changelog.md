@@ -1,7 +1,4 @@
 # Tweaked Physics 1.3
-
-
-
 - Reduced Boost Speed Cap
 
 - Decreased Spin Dash's Inital and Max Speed
@@ -73,6 +70,7 @@
 - Wild Rush no longer ends in mid-air
 
 - Improved Running acceleration
+
 
 
 
