@@ -40,28 +40,29 @@
 
 
 # Tweaked Physics 1.2
--Update Server Added
+- Update Server Added
 
--Added configuration for enabling/disabling Combat Changes
+- Added configuration for enabling/disabling Combat Changes
 
--Stomp falling speed is quicker in combat
+- Stomp falling speed is quicker in combat
 
--Dodging takes up less time
+- Dodging takes up less time
 
--Jumping no longer requires speed to move forward
+- Jumping no longer requires speed to move forward
 
 
 
 
 
 # Tweaked Physics 1.1
--Fixed Crashing
+- Fixed Crashing
 
--Fixed Cyclone Kick spam glitch
+- Fixed Cyclone Kick spam glitch
 
--Wild Rush no longer ends in mid-air
+- Wild Rush no longer ends in mid-air
 
--Improved Running acceleration
+- Improved Running acceleration
+
 
 
 
