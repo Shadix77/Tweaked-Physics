@@ -1,4 +1,4 @@
-# Tweaked Physics 1.3
+## Tweaked Physics 1.3
 - Reduced Boost Speed Cap
 - Decreased Spin Dash's Inital and Max Speed
 - Increased Running Speed Cap
@@ -18,18 +18,19 @@
 - Drop Dash rotation has been reduced
 - Diving sections have now been sped up
 
-# Tweaked Physics 1.2
+## Tweaked Physics 1.2
 - Update Server Added
 - Added configuration for enabling/disabling Combat Changes
 - Stomp falling speed is quicker in combat
 - Dodging takes up less time
 - Jumping no longer requires speed to move forward
   
-# Tweaked Physics 1.1
+## Tweaked Physics 1.1
 - Fixed Crashing
 - Fixed Cyclone Kick spam glitch
 - Wild Rush no longer ends in mid-air
 - Improved Running acceleration
+
 
 
 
