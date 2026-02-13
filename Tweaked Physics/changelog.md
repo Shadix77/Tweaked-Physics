@@ -1,3 +1,10 @@
+# Tweaked Physics 1.3.2
+- Reduced acceleration rate in open zone"
+- Lesser time to air boost in 2D Cyberspace"
+- Boost Initial Speed increased partially"
+- Max Speed Boost initial speed decreased slightly"
+- Sonic is now able to jog up slopes"
+- 
 # Tweaked Physics 1.3
 - Reduced Boost Speed Cap
 - Decreased Spin Dash's Inital and Max Speed
@@ -30,6 +37,7 @@
 - Fixed Cyclone Kick spam glitch
 - Wild Rush no longer ends in mid-air
 - Improved Running acceleration
+
 
 
 
