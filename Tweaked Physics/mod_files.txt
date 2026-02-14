@@ -3,6 +3,7 @@ delete raw/
 add config.json
 add mod_files.txt
 add mod_version.ini
+add changelog.md
 add faster_combat/raw/character/playercommon.pac
 add vanilla_combat/raw/character/playercommon.pac
 
