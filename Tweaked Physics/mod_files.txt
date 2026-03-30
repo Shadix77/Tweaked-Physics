@@ -1,9 +1,27 @@
-delete raw/
-add config.json
-add mod_files.txt
-add mod_version.ini
-add changelog.md
-add faster_combat/raw/character/playercommon.pac
-add vanilla_combat/raw/character/playercommon.pac
+delete/raw
+add/faster_combat/raw/character/playercommon/!DEPENDENCIES.txt
+add/faster_combat/raw/character/playercommon/amy_common.rfl
+add/faster_combat/raw/character/playercommon/effect_database.rfl
+add/faster_combat/raw/character/playercommon/knuckles_common.rfl
+add/faster_combat/raw/character/playercommon/parry_area.rfl
+add/faster_combat/raw/character/playercommon/player.vib
+add/faster_combat/raw/character/playercommon/playercommon.level
+add/faster_combat/raw/character/playercommon/player_camera.rfl
+add/faster_combat/raw/character/playercommon/player_common.rfl
+add/faster_combat/raw/character/playercommon/tails_common.rfl
+add/faster_combat/raw/character/playercommon.pac
+add/faster_combat/raw/character.pac
+add/vanilla_combat/raw/character/playercommon/!DEPENDENCIES.txt
+add/vanilla_combat/raw/character/playercommon/amy_common.rfl
+add/vanilla_combat/raw/character/playercommon/effect_database.rfl
+add/vanilla_combat/raw/character/playercommon/knuckles_common.rfl
+add/vanilla_combat/raw/character/playercommon/parry_area.rfl
+add/vanilla_combat/raw/character/playercommon/player.vib
+add/vanilla_combat/raw/character/playercommon/playercommon.level
+add/vanilla_combat/raw/character/playercommon/player_camera.rfl
+add/vanilla_combat/raw/character/playercommon/player_common.rfl
+add/vanilla_combat/raw/character/playercommon/tails_common.rfl
+add/vanilla_combat/raw/character/playercommon.pac
+add/vanilla_combat/raw/character.pac
 add mod.ini
 
