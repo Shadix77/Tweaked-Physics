@@ -1,3 +1,13 @@
+# Tweaked Physics 1.3.3
+
+- Raised the Speed Cap in Cyberspace
+
+- Fixed an issue where Sonic couldn't run on Walls in the Open Zone
+
+- Reduced Running Speed on Walls and climable terrain
+
+- Jumping onto Mesh Walls is now seamless
+
 # Tweaked Physics 1.3.2
 - Reduced acceleration rate in open zone
 - Lesser time to air boost in 2D Cyberspace
